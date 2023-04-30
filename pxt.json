@@ -1,5 +1,5 @@
 {
-    "name": "some extension",
+    "name": "Image Editor",
     "description": "",
     "dependencies": {
         "device": "*",
